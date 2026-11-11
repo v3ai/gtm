@@ -1,0 +1,388 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1114 784" width="1114" height="784">
+<defs><filter id="sh" x="-10%" y="-10%" width="120%" height="130%"><feGaussianBlur in="SourceAlpha" stdDeviation="16"/><feOffset dy="14"/><feComponentTransfer><feFuncA type="linear" slope=".45"/></feComponentTransfer><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="tb" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a2a30"/><stop offset="1" stop-color="#222227"/></linearGradient></defs>
+<g transform="translate(36,36)">
+<rect width="1042.4" height="712" rx="12" fill="#141417" filter="url(#sh)"/>
+<path d="M0 12a12 12 0 0 1 12-12h1018.4000000000001a12 12 0 0 1 12 12v26h-1042.4z" fill="url(#tb)"/>
+<rect x=".5" y=".5" width="1041.4" height="711" rx="11.5" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
+<circle cx="22" cy="19.0" r="6.5" fill="#ff6b6b"/>
+<circle cx="44" cy="19.0" r="6.5" fill="#ffd166"/>
+<circle cx="66" cy="19.0" r="6.5" fill="#7bd88f"/>
+<text x="521.2" y="24.0" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="13" fill="#8a8a94">gtm — session manager</text>
+<g transform="translate(22,60)" font-family="'DejaVu Sans Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.5">
+<rect x="0.0" y="0" width="67.8" height="21.6" fill="#afafff"/>
+<rect x="67.2" y="0" width="931.2" height="21.6" fill="#262626"/>
+<rect x="412.8" y="42" width="96.6" height="21.6" fill="#afd787"/>
+<rect x="355.2" y="84" width="96.6" height="21.6" fill="#afafff"/>
+<rect x="460.8" y="84" width="77.4" height="21.6" fill="#3a3a3a"/>
+<rect x="547.2" y="84" width="77.4" height="21.6" fill="#3a3a3a"/>
+<rect x="0.0" y="168" width="336.6" height="21.6" fill="#3a3a3a"/>
+<rect x="758.4" y="483" width="10.2" height="21.6" fill="#d0d0d0"/>
+<rect x="528.0" y="525" width="10.2" height="21.6" fill="#afafff"/>
+<rect x="374.4" y="546" width="77.4" height="21.6" fill="#afafff"/>
+<rect x="451.2" y="546" width="269.4" height="21.6" fill="#3a3a3a"/>
+<rect x="0.0" y="609" width="998.4" height="21.6" fill="#262626"/>
+<text x="9.6" y="15.1" fill="#1c1c1c" font-weight="bold" xml:space="preserve" textLength="48.0" lengthAdjust="spacingAndGlyphs">◆ gtm</text>
+<text x="86.4" y="15.1" fill="#8a8a8a" xml:space="preserve" textLength="144.0" lengthAdjust="spacingAndGlyphs">session manager</text>
+<text x="796.8" y="15.1" fill="#767676" xml:space="preserve" textLength="192.0" lengthAdjust="spacingAndGlyphs">5 sessions  ·  14:32</text>
+<text x="19.2" y="57.1" fill="#767676" font-weight="bold" xml:space="preserve" textLength="76.8" lengthAdjust="spacingAndGlyphs">SESSIONS</text>
+<text x="115.2" y="57.1" fill="#585858" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">5</text>
+<path d="M340.8 42V63" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="355.2" y="57.1" fill="#afafff" font-weight="bold" xml:space="preserve" textLength="38.4" lengthAdjust="spacingAndGlyphs">work</text>
+<text x="422.4" y="57.1" fill="#1c1c1c" font-weight="bold" xml:space="preserve" textLength="76.8" lengthAdjust="spacingAndGlyphs">attached</text>
+<text x="537.6" y="57.1" fill="#767676" xml:space="preserve" textLength="249.6" lengthAdjust="spacingAndGlyphs">3 panes · up 2h · pid 4121</text>
+<path d="M340.8 63V84" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="19.2" y="99.1" fill="#585858" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">○</text>
+<text x="38.4" y="99.1" fill="#d0d0d0" xml:space="preserve" textLength="96.0" lengthAdjust="spacingAndGlyphs">api-server</text>
+<text x="230.4" y="99.1" fill="#767676" xml:space="preserve" textLength="96.0" lengthAdjust="spacingAndGlyphs">1 win · 5m</text>
+<path d="M340.8 84V105" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="364.8" y="99.1" fill="#1c1c1c" font-weight="bold" xml:space="preserve" textLength="76.8" lengthAdjust="spacingAndGlyphs">1 code ◫</text>
+<text x="470.4" y="99.1" fill="#d0d0d0" xml:space="preserve" textLength="144.0" lengthAdjust="spacingAndGlyphs">2 bash   3 htop</text>
+<text x="19.2" y="120.1" fill="#585858" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">○</text>
+<text x="38.4" y="120.1" fill="#d0d0d0" xml:space="preserve" textLength="48.0" lengthAdjust="spacingAndGlyphs">build</text>
+<text x="220.8" y="120.1" fill="#767676" xml:space="preserve" textLength="105.6" lengthAdjust="spacingAndGlyphs">2 win · 12m</text>
+<path d="M340.8 105V126" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="19.2" y="141.1" fill="#585858" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">○</text>
+<text x="38.4" y="141.1" fill="#d0d0d0" xml:space="preserve" textLength="76.8" lengthAdjust="spacingAndGlyphs">dotfiles</text>
+<text x="230.4" y="141.1" fill="#767676" xml:space="preserve" textLength="96.0" lengthAdjust="spacingAndGlyphs">1 win · 3d</text>
+<path d="M340.8 126V147" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M364.8 136.5H365.0Q360.0 136.5 360.0 141.5V147" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M364.8 136.5H374.4" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="384.0" y="141.1" fill="#767676" xml:space="preserve" textLength="115.2" lengthAdjust="spacingAndGlyphs">live preview</text>
+<path d="M508.79999999999995 136.5H518.4" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M518.4 136.5H528.0" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M528.0 136.5H537.6" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M537.6 136.5H547.1999999999999" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M547.1999999999999 136.5H556.8" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M556.8 136.5H566.4" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M566.4 136.5H576.0" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M576.0 136.5H585.6" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M585.6 136.5H595.1999999999999" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M595.1999999999999 136.5H604.8" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M604.8 136.5H614.4" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M614.4 136.5H624.0" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M624.0 136.5H633.6" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M633.6 136.5H643.1999999999999" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M643.1999999999999 136.5H652.8" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M652.8 136.5H662.4" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M662.4 136.5H672.0" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M672.0 136.5H681.6" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M681.6 136.5H691.1999999999999" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M691.1999999999999 136.5H700.8" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M700.8 136.5H710.4" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M710.4 136.5H720.0" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M720.0 136.5H729.6" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M729.6 136.5H739.1999999999999" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M739.1999999999999 136.5H748.8" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M748.8 136.5H758.4" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M758.4 136.5H768.0" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M768.0 136.5H777.6" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M777.6 136.5H787.1999999999999" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M787.1999999999999 136.5H796.8" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M796.8 136.5H806.4" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M806.4 136.5H816.0" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M816.0 136.5H825.6" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M825.6 136.5H835.1999999999999" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M835.1999999999999 136.5H844.8" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M844.8 136.5H854.4" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M854.4 136.5H864.0" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M864.0 136.5H873.6" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M873.6 136.5H883.1999999999999" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M883.1999999999999 136.5H892.8" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M892.8 136.5H902.4" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M902.4 136.5H912.0" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M912.0 136.5H921.5999999999999" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M921.5999999999999 136.5H931.1999999999999" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M931.1999999999999 136.5H940.8" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M940.8 136.5H950.4" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M950.4 136.5H960.0" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M960.0 136.5H969.5999999999999" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M969.5999999999999 136.5H979.1999999999999" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M979.1999999999999 136.5H978.9999999999999Q983.9999999999999 136.5 983.9999999999999 141.5V147" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="19.2" y="162.1" fill="#585858" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">○</text>
+<text x="38.4" y="162.1" fill="#d0d0d0" xml:space="preserve" textLength="48.0" lengthAdjust="spacingAndGlyphs">notes</text>
+<text x="230.4" y="162.1" fill="#767676" xml:space="preserve" textLength="96.0" lengthAdjust="spacingAndGlyphs">1 win · 1d</text>
+<path d="M340.8 147V168" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M360.0 147V168" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="374.4" y="162.1" fill="#585858" xml:space="preserve" textLength="28.8" lengthAdjust="spacingAndGlyphs">270</text>
+<text x="412.8" y="162.1" fill="#afafff" font-weight="bold" xml:space="preserve" textLength="57.6" lengthAdjust="spacingAndGlyphs">static</text>
+<text x="480.0" y="162.1" fill="#afafff" font-weight="bold" xml:space="preserve" textLength="38.4" lengthAdjust="spacingAndGlyphs">void</text>
+<text x="528.0" y="162.1" fill="#ffd787" xml:space="preserve" textLength="105.6" lengthAdjust="spacingAndGlyphs">scroll_down</text>
+<text x="633.6" y="162.1" fill="#8a8a8a" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">(</text>
+<text x="643.2" y="162.1" fill="#87d7ff" xml:space="preserve" textLength="19.2" lengthAdjust="spacingAndGlyphs">VT</text>
+<text x="672.0" y="162.1" fill="#d0d0d0" xml:space="preserve" textLength="48.0" lengthAdjust="spacingAndGlyphs">*v, i</text>
+<path d="M724.8 147V168" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="739.2" y="162.1" fill="#afd787" font-weight="bold" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">$</text>
+<text x="758.4" y="162.1" fill="#d0d0d0" xml:space="preserve" textLength="38.4" lengthAdjust="spacingAndGlyphs">make</text>
+<path d="M983.9999999999999 147V168" stroke="#444444" stroke-width="1.3" fill="none"/>
+<rect x="0.0" y="168" width="4.8" height="21" fill="#afafff"/>
+<text x="19.2" y="183.1" fill="#afd787" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">●</text>
+<text x="38.4" y="183.1" fill="#eeeeee" font-weight="bold" xml:space="preserve" textLength="38.4" lengthAdjust="spacingAndGlyphs">work</text>
+<text x="230.4" y="183.1" fill="#8a8a8a" xml:space="preserve" textLength="96.0" lengthAdjust="spacingAndGlyphs">3 win · 2h</text>
+<path d="M340.8 168V189" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M360.0 168V189" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="374.4" y="183.1" fill="#585858" xml:space="preserve" textLength="28.8" lengthAdjust="spacingAndGlyphs">271</text>
+<text x="412.8" y="183.1" fill="#8a8a8a" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">{</text>
+<path d="M724.8 168V189" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="739.2" y="183.1" fill="#767676" xml:space="preserve" textLength="134.4" lengthAdjust="spacingAndGlyphs">cc -c src/vt.c</text>
+<path d="M983.9999999999999 168V189" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M340.8 189V210" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M360.0 189V210" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="374.4" y="204.1" fill="#585858" xml:space="preserve" textLength="28.8" lengthAdjust="spacingAndGlyphs">272</text>
+<text x="451.2" y="204.1" fill="#afafff" font-weight="bold" xml:space="preserve" textLength="28.8" lengthAdjust="spacingAndGlyphs">int</text>
+<text x="489.6" y="204.1" fill="#d0d0d0" xml:space="preserve" textLength="144.0" lengthAdjust="spacingAndGlyphs">h = bot - top +</text>
+<text x="643.2" y="204.1" fill="#ffaf87" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">1</text>
+<text x="652.8" y="204.1" fill="#d0d0d0" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">;</text>
+<path d="M724.8 189V210" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="739.2" y="204.1" fill="#767676" xml:space="preserve" textLength="172.8" lengthAdjust="spacingAndGlyphs">cc -c src/server.c</text>
+<path d="M983.9999999999999 189V210" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M340.8 210V231" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M360.0 210V231" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="374.4" y="225.1" fill="#585858" xml:space="preserve" textLength="28.8" lengthAdjust="spacingAndGlyphs">273</text>
+<text x="451.2" y="225.1" fill="#afafff" font-weight="bold" xml:space="preserve" textLength="19.2" lengthAdjust="spacingAndGlyphs">if</text>
+<text x="480.0" y="225.1" fill="#8a8a8a" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">(</text>
+<text x="489.6" y="225.1" fill="#d0d0d0" xml:space="preserve" textLength="48.0" lengthAdjust="spacingAndGlyphs">n &gt; h</text>
+<text x="537.6" y="225.1" fill="#8a8a8a" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">)</text>
+<path d="M724.8 210V231" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="739.2" y="225.1" fill="#767676" xml:space="preserve" textLength="172.8" lengthAdjust="spacingAndGlyphs">cc -c src/client.c</text>
+<path d="M983.9999999999999 210V231" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M340.8 231V252" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M360.0 231V252" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="374.4" y="246.1" fill="#585858" xml:space="preserve" textLength="28.8" lengthAdjust="spacingAndGlyphs">274</text>
+<text x="489.6" y="246.1" fill="#d0d0d0" xml:space="preserve" textLength="57.6" lengthAdjust="spacingAndGlyphs">n = h;</text>
+<path d="M724.8 231V252" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="739.2" y="246.1" fill="#767676" xml:space="preserve" textLength="182.4" lengthAdjust="spacingAndGlyphs">cc -c src/manager.c</text>
+<path d="M983.9999999999999 231V252" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M340.8 252V273" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M360.0 252V273" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="374.4" y="267.1" fill="#585858" xml:space="preserve" textLength="28.8" lengthAdjust="spacingAndGlyphs">275</text>
+<text x="451.2" y="267.1" fill="#afafff" font-weight="bold" xml:space="preserve" textLength="19.2" lengthAdjust="spacingAndGlyphs">if</text>
+<text x="480.0" y="267.1" fill="#8a8a8a" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">(</text>
+<text x="489.6" y="267.1" fill="#d0d0d0" xml:space="preserve" textLength="38.4" lengthAdjust="spacingAndGlyphs">n &lt;=</text>
+<text x="537.6" y="267.1" fill="#ffaf87" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">0</text>
+<text x="547.2" y="267.1" fill="#8a8a8a" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">)</text>
+<path d="M724.8 252V273" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="739.2" y="267.1" fill="#767676" xml:space="preserve" textLength="163.2" lengthAdjust="spacingAndGlyphs">cc -o gtm src/*.o</text>
+<path d="M983.9999999999999 252V273" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M340.8 273V294" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M360.0 273V294" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="374.4" y="288.1" fill="#585858" xml:space="preserve" textLength="28.8" lengthAdjust="spacingAndGlyphs">276</text>
+<text x="489.6" y="288.1" fill="#afafff" font-weight="bold" xml:space="preserve" textLength="57.6" lengthAdjust="spacingAndGlyphs">return</text>
+<text x="547.2" y="288.1" fill="#d0d0d0" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">;</text>
+<path d="M724.8 273V294" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="739.2" y="288.1" fill="#afd787" font-weight="bold" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">$</text>
+<text x="758.4" y="288.1" fill="#d0d0d0" xml:space="preserve" textLength="124.8" lengthAdjust="spacingAndGlyphs">wc -l src/*.c</text>
+<path d="M983.9999999999999 273V294" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M340.8 294V315" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M360.0 294V315" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="374.4" y="309.1" fill="#585858" xml:space="preserve" textLength="28.8" lengthAdjust="spacingAndGlyphs">277</text>
+<text x="451.2" y="309.1" fill="#87d7ff" xml:space="preserve" textLength="38.4" lengthAdjust="spacingAndGlyphs">Cell</text>
+<text x="499.2" y="309.1" fill="#d0d0d0" xml:space="preserve" textLength="28.8" lengthAdjust="spacingAndGlyphs">b =</text>
+<text x="537.6" y="309.1" fill="#ffd787" xml:space="preserve" textLength="48.0" lengthAdjust="spacingAndGlyphs">ecell</text>
+<text x="585.6" y="309.1" fill="#8a8a8a" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">(</text>
+<text x="595.2" y="309.1" fill="#d0d0d0" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">v</text>
+<text x="604.8" y="309.1" fill="#8a8a8a" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">)</text>
+<text x="614.4" y="309.1" fill="#d0d0d0" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">;</text>
+<path d="M724.8 294V315" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="758.4" y="309.1" fill="#ffaf87" xml:space="preserve" textLength="28.8" lengthAdjust="spacingAndGlyphs">122</text>
+<text x="796.8" y="309.1" fill="#d0d0d0" xml:space="preserve" textLength="115.2" lengthAdjust="spacingAndGlyphs">src/client.c</text>
+<path d="M983.9999999999999 294V315" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M340.8 315V336" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M360.0 315V336" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="374.4" y="330.1" fill="#585858" xml:space="preserve" textLength="28.8" lengthAdjust="spacingAndGlyphs">278</text>
+<text x="451.2" y="330.1" fill="#afafff" font-weight="bold" xml:space="preserve" textLength="28.8" lengthAdjust="spacingAndGlyphs">for</text>
+<text x="489.6" y="330.1" fill="#8a8a8a" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">(</text>
+<text x="499.2" y="330.1" fill="#afafff" font-weight="bold" xml:space="preserve" textLength="28.8" lengthAdjust="spacingAndGlyphs">int</text>
+<text x="537.6" y="330.1" fill="#d0d0d0" xml:space="preserve" textLength="28.8" lengthAdjust="spacingAndGlyphs">i =</text>
+<text x="576.0" y="330.1" fill="#ffaf87" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">0</text>
+<text x="585.6" y="330.1" fill="#d0d0d0" xml:space="preserve" textLength="115.2" lengthAdjust="spacingAndGlyphs">; i &lt; n; i++</text>
+<text x="700.8" y="330.1" fill="#8a8a8a" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">)</text>
+<path d="M724.8 315V336" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="758.4" y="330.1" fill="#ffaf87" xml:space="preserve" textLength="28.8" lengthAdjust="spacingAndGlyphs">187</text>
+<text x="796.8" y="330.1" fill="#d0d0d0" xml:space="preserve" textLength="96.0" lengthAdjust="spacingAndGlyphs">src/main.c</text>
+<path d="M983.9999999999999 315V336" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M340.8 336V357" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M360.0 336V357" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="374.4" y="351.1" fill="#585858" xml:space="preserve" textLength="28.8" lengthAdjust="spacingAndGlyphs">279</text>
+<text x="489.6" y="351.1" fill="#87d7ff" xml:space="preserve" textLength="38.4" lengthAdjust="spacingAndGlyphs">Cell</text>
+<text x="537.6" y="351.1" fill="#d0d0d0" xml:space="preserve" textLength="163.2" lengthAdjust="spacingAndGlyphs">*l = v-&gt;scr[bot];</text>
+<path d="M724.8 336V357" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="748.8" y="351.1" fill="#ffaf87" xml:space="preserve" textLength="38.4" lengthAdjust="spacingAndGlyphs">1008</text>
+<text x="796.8" y="351.1" fill="#d0d0d0" xml:space="preserve" textLength="124.8" lengthAdjust="spacingAndGlyphs">src/manager.c</text>
+<path d="M983.9999999999999 336V357" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M340.8 357V378" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M360.0 357V378" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="374.4" y="372.1" fill="#585858" xml:space="preserve" textLength="28.8" lengthAdjust="spacingAndGlyphs">280</text>
+<text x="489.6" y="372.1" fill="#ffd787" xml:space="preserve" textLength="67.2" lengthAdjust="spacingAndGlyphs">memmove</text>
+<text x="556.8" y="372.1" fill="#8a8a8a" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">(</text>
+<text x="566.4" y="372.1" fill="#d0d0d0" xml:space="preserve" textLength="124.8" lengthAdjust="spacingAndGlyphs">&amp;v-&gt;scr[top +</text>
+<text x="700.8" y="372.1" fill="#ffaf87" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">1</text>
+<text x="710.4" y="372.1" fill="#d0d0d0" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">]</text>
+<path d="M724.8 357V378" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="748.8" y="372.1" fill="#ffaf87" xml:space="preserve" textLength="38.4" lengthAdjust="spacingAndGlyphs">2691</text>
+<text x="796.8" y="372.1" fill="#d0d0d0" xml:space="preserve" textLength="115.2" lengthAdjust="spacingAndGlyphs">src/server.c</text>
+<path d="M983.9999999999999 357V378" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M340.8 378V399" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M360.0 378V399" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="374.4" y="393.1" fill="#585858" xml:space="preserve" textLength="28.8" lengthAdjust="spacingAndGlyphs">281</text>
+<text x="489.6" y="393.1" fill="#afafff" font-weight="bold" xml:space="preserve" textLength="28.8" lengthAdjust="spacingAndGlyphs">for</text>
+<text x="528.0" y="393.1" fill="#8a8a8a" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">(</text>
+<text x="537.6" y="393.1" fill="#afafff" font-weight="bold" xml:space="preserve" textLength="28.8" lengthAdjust="spacingAndGlyphs">int</text>
+<text x="576.0" y="393.1" fill="#d0d0d0" xml:space="preserve" textLength="28.8" lengthAdjust="spacingAndGlyphs">c =</text>
+<text x="614.4" y="393.1" fill="#ffaf87" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">0</text>
+<text x="624.0" y="393.1" fill="#d0d0d0" xml:space="preserve" textLength="96.0" lengthAdjust="spacingAndGlyphs">; c &lt; v-&gt;c</text>
+<path d="M724.8 378V399" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="758.4" y="393.1" fill="#ffaf87" xml:space="preserve" textLength="28.8" lengthAdjust="spacingAndGlyphs">698</text>
+<text x="796.8" y="393.1" fill="#d0d0d0" xml:space="preserve" textLength="96.0" lengthAdjust="spacingAndGlyphs">src/util.c</text>
+<path d="M983.9999999999999 378V399" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M340.8 399V420" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M360.0 399V420" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="374.4" y="414.1" fill="#585858" xml:space="preserve" textLength="28.8" lengthAdjust="spacingAndGlyphs">282</text>
+<text x="528.0" y="414.1" fill="#d0d0d0" xml:space="preserve" textLength="86.4" lengthAdjust="spacingAndGlyphs">l[c] = b;</text>
+<path d="M724.8 399V420" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="748.8" y="414.1" fill="#ffaf87" xml:space="preserve" textLength="38.4" lengthAdjust="spacingAndGlyphs">1113</text>
+<text x="796.8" y="414.1" fill="#d0d0d0" xml:space="preserve" textLength="76.8" lengthAdjust="spacingAndGlyphs">src/vt.c</text>
+<path d="M983.9999999999999 399V420" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M340.8 420V441" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M360.0 420V441" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="374.4" y="435.1" fill="#585858" xml:space="preserve" textLength="28.8" lengthAdjust="spacingAndGlyphs">283</text>
+<text x="489.6" y="435.1" fill="#d0d0d0" xml:space="preserve" textLength="153.6" lengthAdjust="spacingAndGlyphs">v-&gt;scr[top] = l;</text>
+<path d="M724.8 420V441" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="748.8" y="435.1" fill="#ffaf87" xml:space="preserve" textLength="38.4" lengthAdjust="spacingAndGlyphs">5819</text>
+<text x="796.8" y="435.1" fill="#d0d0d0" xml:space="preserve" textLength="48.0" lengthAdjust="spacingAndGlyphs">total</text>
+<path d="M983.9999999999999 420V441" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M340.8 441V462" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M360.0 441V462" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="374.4" y="456.1" fill="#585858" xml:space="preserve" textLength="28.8" lengthAdjust="spacingAndGlyphs">284</text>
+<text x="451.2" y="456.1" fill="#8a8a8a" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">}</text>
+<path d="M724.8 441V462" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="739.2" y="456.1" fill="#afd787" font-weight="bold" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">$</text>
+<text x="758.4" y="456.1" fill="#d0d0d0" xml:space="preserve" textLength="124.8" lengthAdjust="spacingAndGlyphs">./gtm version</text>
+<path d="M983.9999999999999 441V462" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M340.8 462V483" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M360.0 462V483" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="374.4" y="477.1" fill="#585858" xml:space="preserve" textLength="28.8" lengthAdjust="spacingAndGlyphs">285</text>
+<text x="451.2" y="477.1" fill="#d0d0d0" xml:space="preserve" textLength="96.0" lengthAdjust="spacingAndGlyphs">v-&gt;dirty =</text>
+<text x="556.8" y="477.1" fill="#ffaf87" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">1</text>
+<text x="566.4" y="477.1" fill="#d0d0d0" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">;</text>
+<path d="M724.8 462V483" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="739.2" y="477.1" fill="#d0d0d0" xml:space="preserve" textLength="86.4" lengthAdjust="spacingAndGlyphs">gtm 1.0.0</text>
+<path d="M983.9999999999999 462V483" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M340.8 483V504" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M360.0 483V504" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="374.4" y="498.1" fill="#585858" xml:space="preserve" textLength="28.8" lengthAdjust="spacingAndGlyphs">286</text>
+<text x="412.8" y="498.1" fill="#8a8a8a" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">}</text>
+<path d="M724.8 483V504" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="739.2" y="498.1" fill="#afd787" font-weight="bold" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">$</text>
+<path d="M983.9999999999999 483V504" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M340.8 504V525" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M360.0 504V525" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="374.4" y="519.1" fill="#585858" xml:space="preserve" textLength="28.8" lengthAdjust="spacingAndGlyphs">287</text>
+<path d="M724.8 504V525" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M983.9999999999999 504V525" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M340.8 525V546" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M360.0 525V546" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="374.4" y="540.1" fill="#585858" xml:space="preserve" textLength="28.8" lengthAdjust="spacingAndGlyphs">288</text>
+<text x="412.8" y="540.1" fill="#afafff" font-weight="bold" xml:space="preserve" textLength="57.6" lengthAdjust="spacingAndGlyphs">static</text>
+<text x="480.0" y="540.1" fill="#afafff" font-weight="bold" xml:space="preserve" textLength="38.4" lengthAdjust="spacingAndGlyphs">void</text>
+<text x="528.0" y="540.1" fill="#1c1c1c" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">l</text>
+<text x="537.6" y="540.1" fill="#ffd787" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">f</text>
+<text x="547.2" y="540.1" fill="#8a8a8a" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">(</text>
+<text x="556.8" y="540.1" fill="#87d7ff" xml:space="preserve" textLength="19.2" lengthAdjust="spacingAndGlyphs">VT</text>
+<text x="585.6" y="540.1" fill="#d0d0d0" xml:space="preserve" textLength="19.2" lengthAdjust="spacingAndGlyphs">*v</text>
+<text x="604.8" y="540.1" fill="#8a8a8a" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">)</text>
+<path d="M724.8 525V546" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M983.9999999999999 525V546" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M340.8 546V567" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M360.0 546V567" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="384.0" y="561.1" fill="#1c1c1c" font-weight="bold" xml:space="preserve" textLength="57.6" lengthAdjust="spacingAndGlyphs">NORMAL</text>
+<text x="460.8" y="561.1" fill="#eeeeee" xml:space="preserve" textLength="76.8" lengthAdjust="spacingAndGlyphs">src/vt.c</text>
+<text x="614.4" y="561.1" fill="#8a8a8a" xml:space="preserve" textLength="96.0" lengthAdjust="spacingAndGlyphs">288,13 41%</text>
+<path d="M724.8 546V567" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M983.9999999999999 546V567" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M340.8 567V588" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M360.0 567V572.5Q360.0 577.5 365.0 577.5H364.8" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M364.8 577.5H374.4" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M374.4 577.5H384.0" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M384.0 577.5H393.59999999999997" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M393.59999999999997 577.5H403.2" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M403.2 577.5H412.8" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M412.8 577.5H422.4" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M422.4 577.5H432.0" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M432.0 577.5H441.59999999999997" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M441.59999999999997 577.5H451.2" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M451.2 577.5H460.79999999999995" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M460.79999999999995 577.5H470.4" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M470.4 577.5H480.0" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M480.0 577.5H489.59999999999997" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M489.59999999999997 577.5H499.2" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M499.2 577.5H508.79999999999995" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M508.79999999999995 577.5H518.4" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M518.4 577.5H528.0" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M528.0 577.5H537.6" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M537.6 577.5H547.1999999999999" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M547.1999999999999 577.5H556.8" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M556.8 577.5H566.4" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M566.4 577.5H576.0" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M576.0 577.5H585.6" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M585.6 577.5H595.1999999999999" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M595.1999999999999 577.5H604.8" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M604.8 577.5H614.4" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M614.4 577.5H624.0" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M624.0 577.5H633.6" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M633.6 577.5H643.1999999999999" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M643.1999999999999 577.5H652.8" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M652.8 577.5H662.4" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M662.4 577.5H672.0" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M672.0 577.5H681.6" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M681.6 577.5H691.1999999999999" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M691.1999999999999 577.5H700.8" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M700.8 577.5H710.4" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M710.4 577.5H720.0" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M720.0 577.5H729.6" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M729.6 577.5H739.1999999999999" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M739.1999999999999 577.5H748.8" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M748.8 577.5H758.4" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M758.4 577.5H768.0" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M768.0 577.5H777.6" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M777.6 577.5H787.1999999999999" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M787.1999999999999 577.5H796.8" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M796.8 577.5H806.4" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M806.4 577.5H816.0" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M816.0 577.5H825.6" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M825.6 577.5H835.1999999999999" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M835.1999999999999 577.5H844.8" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M844.8 577.5H854.4" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M854.4 577.5H864.0" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M864.0 577.5H873.6" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M873.6 577.5H883.1999999999999" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M883.1999999999999 577.5H892.8" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M892.8 577.5H902.4" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M902.4 577.5H912.0" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M912.0 577.5H921.5999999999999" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M921.5999999999999 577.5H931.1999999999999" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M931.1999999999999 577.5H940.8" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M940.8 577.5H950.4" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M950.4 577.5H960.0" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M960.0 577.5H969.5999999999999" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M969.5999999999999 577.5H979.1999999999999" stroke="#444444" stroke-width="1.3" fill="none"/>
+<path d="M983.9999999999999 567V572.5Q983.9999999999999 577.5 978.9999999999999 577.5H979.1999999999999" stroke="#444444" stroke-width="1.3" fill="none"/>
+<text x="19.2" y="603.1" fill="#afd787" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">●</text>
+<text x="38.4" y="603.1" fill="#d0d0d0" xml:space="preserve" textLength="220.8" lengthAdjust="spacingAndGlyphs">created session 'build'</text>
+<text x="9.6" y="624.1" fill="#afafff" font-weight="bold" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">⏎</text>
+<text x="28.8" y="624.1" fill="#8a8a8a" xml:space="preserve" textLength="57.6" lengthAdjust="spacingAndGlyphs">attach</text>
+<text x="115.2" y="624.1" fill="#afafff" font-weight="bold" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">n</text>
+<text x="134.4" y="624.1" fill="#8a8a8a" xml:space="preserve" textLength="28.8" lengthAdjust="spacingAndGlyphs">new</text>
+<text x="192.0" y="624.1" fill="#afafff" font-weight="bold" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">r</text>
+<text x="211.2" y="624.1" fill="#8a8a8a" xml:space="preserve" textLength="57.6" lengthAdjust="spacingAndGlyphs">rename</text>
+<text x="297.6" y="624.1" fill="#afafff" font-weight="bold" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">x</text>
+<text x="316.8" y="624.1" fill="#8a8a8a" xml:space="preserve" textLength="38.4" lengthAdjust="spacingAndGlyphs">kill</text>
+<text x="384.0" y="624.1" fill="#afafff" font-weight="bold" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">/</text>
+<text x="403.2" y="624.1" fill="#8a8a8a" xml:space="preserve" textLength="57.6" lengthAdjust="spacingAndGlyphs">filter</text>
+<text x="489.6" y="624.1" fill="#afafff" font-weight="bold" xml:space="preserve" textLength="28.8" lengthAdjust="spacingAndGlyphs">j k</text>
+<text x="528.0" y="624.1" fill="#8a8a8a" xml:space="preserve" textLength="38.4" lengthAdjust="spacingAndGlyphs">move</text>
+<text x="595.2" y="624.1" fill="#afafff" font-weight="bold" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">?</text>
+<text x="614.4" y="624.1" fill="#8a8a8a" xml:space="preserve" textLength="38.4" lengthAdjust="spacingAndGlyphs">help</text>
+<text x="681.6" y="624.1" fill="#afafff" font-weight="bold" xml:space="preserve" textLength="9.6" lengthAdjust="spacingAndGlyphs">q</text>
+<text x="700.8" y="624.1" fill="#8a8a8a" xml:space="preserve" textLength="38.4" lengthAdjust="spacingAndGlyphs">quit</text>
+<text x="902.4" y="624.1" fill="#585858" xml:space="preserve" textLength="86.4" lengthAdjust="spacingAndGlyphs">gtm 1.0.0</text>
+</g></g></svg>
